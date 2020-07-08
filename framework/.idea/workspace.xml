@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2d7bf95-31b5-4410-bffa-c9f4f4529473" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZVcoQleiXKymzwIxI0woJhz6s0" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2d7bf95-31b5-4410-bffa-c9f4f4529473" name="Default Changelist" comment="" />
+      <created>1584927875810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584927875810</updated>
+      <workItem from="1584927877446" duration="29684000" />
+      <workItem from="1585533437301" duration="3069000" />
+      <workItem from="1585800896622" duration="10867000" />
+      <workItem from="1586332429839" duration="3005000" />
+      <workItem from="1586758144761" duration="1138000" />
+      <workItem from="1586928424513" duration="3226000" />
+      <workItem from="1587004860607" duration="19791000" />
+      <workItem from="1587868712701" duration="11520000" />
+      <workItem from="1587980086011" duration="2145000" />
+      <workItem from="1587982594586" duration="81000" />
+      <workItem from="1588043756921" duration="5287000" />
+      <workItem from="1588144366125" duration="599000" />
+      <workItem from="1590463267185" duration="2982000" />
+      <workItem from="1594176359930" duration="112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="708" y="303" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1585805774705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="708" y="303" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585805774705" />
+    <state x="1049" y="183" key="#com.intellij.ide.util.MemberChooser" timestamp="1587019979435">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1049" y="183" key="#com.intellij.ide.util.MemberChooser/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1587019979435" />
+    <state x="2719" y="397" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1594176452605">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state x="2719" y="397" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.2048.1112@1920.0.2048.1112" timestamp="1594176452605" />
+    <state width="1877" height="129" key="GridCell.Tab.0.bottom" timestamp="1587895586503">
+      <screen x="2560" y="363" width="1920" height="1030" />
+    </state>
+    <state width="2005" height="150" key="GridCell.Tab.0.bottom/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1587887142690" />
+    <state width="1877" height="129" key="GridCell.Tab.0.bottom/2560.363.1920.1030/0.0.2048.1112@2560.363.1920.1030" timestamp="1587895586503" />
+    <state width="1877" height="129" key="GridCell.Tab.0.center" timestamp="1587895586503">
+      <screen x="2560" y="363" width="1920" height="1030" />
+    </state>
+    <state width="2005" height="150" key="GridCell.Tab.0.center/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1587887142689" />
+    <state width="1877" height="129" key="GridCell.Tab.0.center/2560.363.1920.1030/0.0.2048.1112@2560.363.1920.1030" timestamp="1587895586503" />
+    <state width="1877" height="129" key="GridCell.Tab.0.left" timestamp="1587895586503">
+      <screen x="2560" y="363" width="1920" height="1030" />
+    </state>
+    <state width="2005" height="150" key="GridCell.Tab.0.left/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1587887142689" />
+    <state width="1877" height="129" key="GridCell.Tab.0.left/2560.363.1920.1030/0.0.2048.1112@2560.363.1920.1030" timestamp="1587895586503" />
+    <state width="1877" height="129" key="GridCell.Tab.0.right" timestamp="1587895586503">
+      <screen x="2560" y="363" width="1920" height="1030" />
+    </state>
+    <state width="2005" height="150" key="GridCell.Tab.0.right/2560.363.1920.1030/0.0.2048.1112@0.0.2048.1112" timestamp="1587887142690" />
+    <state width="1877" height="129" key="GridCell.Tab.0.right/2560.363.1920.1030/0.0.2048.1112@2560.363.1920.1030" timestamp="1587895586503" />
+    <state x="493" y="186" key="SettingsEditor" timestamp="1585805806755">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="493" y="186" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585805806755" />
+    <state x="3241" y="624" width="540" height="540" key="StructurePopup" timestamp="1588057215247">
+      <screen x="2560" y="363" width="1920" height="1030" />
+    </state>
+    <state x="3241" y="624" width="540" height="540" key="StructurePopup/2560.363.1920.1030/0.0.2048.1112@2560.363.1920.1030" timestamp="1588057215247" />
+    <state x="41" y="72" width="967" height="976" maximized="true" key="dock-window-1" timestamp="1586333360691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="41" y="72" width="967" height="976" maximized="true" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1586333360691" />
+    <state x="3186" y="458" width="667" height="849" key="find.popup" timestamp="1587875828952">
+      <screen x="2560" y="363" width="1920" height="1030" />
+    </state>
+    <state x="3186" y="458" width="667" height="849" key="find.popup/2560.363.1920.1030/0.0.2048.1112@2560.363.1920.1030" timestamp="1587875828952" />
+    <state x="952" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1585810765697">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="952" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585810765697" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/src/orm/BaseRepository.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
